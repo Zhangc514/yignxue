@@ -1,9 +1,13 @@
 package com.baizhi.zsj;
 
-public class GitTest {
-}
+import org.junit.Test;
 
 public class GitTest {
-        int a;
-        int b;
+  @Test
+  public void xixi(){
+    int a=0;
+    int b=1;
+  }
 }
+
+
