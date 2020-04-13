@@ -28,4 +28,9 @@ public class GitTest {
     public void testPoi(){
         
     }
+    @Test
+    public void testGit(){
+        int a=1;
+        int b=2;
+    }
 }
