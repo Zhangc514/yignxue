@@ -26,6 +26,6 @@ public class GitTest {
 
     @Test
     public void testPoi(){
-        
+
     }
 }
