@@ -33,7 +33,7 @@ public class GitTest {
         int a=1;
         int b=2;
         for (int i = 0; i < array.length; i++) {
-            System.out.println(i);
+            System.out.println("再次修改");
         }
     }
 }
