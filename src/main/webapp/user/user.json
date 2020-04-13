@@ -1,0 +1,37 @@
+{
+  "total": "3",
+  "records": "9",
+  "page": "1",
+  "rows": [
+    {
+      "id": "4",
+      "username": "策",
+      "phone": "514514",
+      "headImg": "pic1.jpg",
+      "sign": "我喜欢",
+      "wechat": "514514",
+      "status": "0",
+      "createDate": "2012-12-12"
+    },{
+      "id": "5",
+      "username": "策策",
+      "phone": "514514",
+      "headImg": "pic2.jpg",
+      "sign": "我喜欢",
+      "wechat": "514514",
+      "status": "1",
+      "createDate": "2012-12-12"
+    },{
+      "id": "6",
+      "username": "策啊策",
+      "phone": "514514",
+      "headImg": "pic3.jpg",
+      "sign": "我喜欢",
+      "wechat": "514514",
+      "status": "0",
+      "createDate": "2012-12-12"
+    }
+
+  ]
+
+}

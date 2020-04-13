@@ -1,0 +1,21 @@
+{
+  "total": "3",
+  "records": "9",
+  "page": "1",
+  "rows": [
+    {
+      "id": "1",
+      "cateName": "java",
+      "levels": "1"
+    },{
+      "id": "2",
+      "cateName": "PHP",
+      "levels": "1"
+    },{
+      "id": "3",
+      "cateName": "派森",
+      "levels": "1"
+    }
+  ]
+
+}

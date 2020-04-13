@@ -1,0 +1,24 @@
+{
+  "total": "3",
+  "records": "9",
+  "page": "1",
+  "rows": [
+    {
+      "id": "11",
+      "cateName": "入门",
+      "levels": "2",
+      "parentId": "1"
+    },{
+      "id": "12",
+      "cateName": "web",
+      "levels": "2",
+      "parentId": "1"
+    },{
+      "id": "13",
+      "cateName": "GO",
+      "levels": "2",
+      "parentId": "1"
+    }
+  ]
+
+}
